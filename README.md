@@ -1,5 +1,5 @@
 <!-- Title -->
-# 📊 Data Alchemist | Machine Learning Enthusiast | Code Artisan 🚀
+# 📊 Data Scientist | Machine Learning Enthusiast | Code Artisan 🚀
 
 <!-- Contact Information -->
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilmishra3) | ✉️ Email: [nikhil.mishra@rutgers.edu](mailto:nikhil.mishra@rutgers.edu)
@@ -8,7 +8,7 @@
 🎓 Master of Science in Data Science | Rutgers University | GPA: 3.93/4.0
 
 <!-- Work Experience -->
-🌟 **Data Sorcerer** @ Colgate-Palmolive (Piscataway, NJ)
+🌟 **Data Scientist** @ Colgate-Palmolive (Piscataway, NJ)
    - Crafted magical agglomerative clustering spells, optimizing product formulation by 25%.
    - Forged SQL incantations, accelerating data processing by 30%.
    - Enchanted end-to-end ETL pipelines with Apache Airflow, boosting data flow efficiency by 60%.
