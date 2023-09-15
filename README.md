@@ -5,7 +5,7 @@
 📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilmishra3) | ✉️ Email: [nikhil.mishra@rutgers.edu](mailto:nikhil.mishra@rutgers.edu)
 
 <!-- Education -->
-🎓 Master of Science in Data Science | Rutgers University | GPA: 3.93/4.0
+🎓 Master of Science in Data Science | Rutgers University 
 
 <!-- Work Experience -->
 🌟 **Data Scientist** @ Colgate-Palmolive (Piscataway, NJ)
