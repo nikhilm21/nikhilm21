@@ -1,35 +1,20 @@
-<!-- Title -->
-# 📊 Data Scientist | Machine Learning Enthusiast | Code Artisan 🚀
+# Hey, I'm Nikhil Mishra 👋
 
-<!-- Contact Information -->
-📧 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhilmishra3) | ✉️ Email: [nikhil.mishra@rutgers.edu](mailto:nikhil.mishra@rutgers.edu)
+🚀 **Data Scientist** who turns raw, messy data into clean, actionable insights.  
+📊 Obsessed with building ML models that actually work in production — from forecasting demand to summarizing internet chaos.  
+☁️ Living in the clouds (AWS, GCP, Azure) but keeping my feet in solid data engineering pipelines.  
 
-<!-- Education -->
-🎓 Master of Science in Data Science | Rutgers University 
+I enjoy:
+- 🧮 Finding patterns in chaos  
+- 📈 Turning SQL queries into stories  
+- 🛠️ Automating the boring stuff  
+- ☕ Coffee-fueled debugging sessions  
 
-<!-- Work Experience -->
-🌟 **Data Scientist** @ Colgate-Palmolive (Piscataway, NJ)
-   - Crafted magical agglomerative clustering spells, optimizing product formulation by 25%.
-   - Forged SQL incantations, accelerating data processing by 30%.
-   - Enchanted end-to-end ETL pipelines with Apache Airflow, boosting data flow efficiency by 60%.
+**Fun facts:**
+- My LSTM model once hit **92% precision** predicting inventory allocation  
+- Built ETL pipelines that made data flow **40% faster** (and my team a lot happier)  
+- I’ve saved companies *real money* — like **$500K in one project**  
 
-🚀 **Lead Code Wizard** @ The Daily Targum (New Brunswick, NJ)
-   - Conjured a cloud-based website on AWS, reducing maintenance costs by 50%.
-   - Mastered AWS deployment sorcery, cutting monthly costs by 25%.
+If you like data, machine learning, or weird API projects — you’re in the right repo.  
 
-<!-- Projects -->
-🔍 **Data Alchemy Projects**:
-   - Transmuted market trends in the automobile industry using Python.
-   - Conjured a 98% accurate Oracle with a Random Forest Classifier for fake news detection.
-   - Automated email parsing rituals, amplifying productivity by 40%.
-
-<!-- Skills -->
-💼 **Wizardry Arsenal**:
-   - Data Alchemy | Machine Learning Sorcery | Data Divination
-   - Python | R | SQL | AWS | Tableau
-
-📜 **Certifications**:
-   - 📚 DELL EMC - Data Science and Big Data Analytics Certified Alchemist
-   - ⚙️ Microsoft Technical Skills - Certified Python Developer
-
-🌌 Let's dive into the data cosmos and unravel the secrets it holds! 🌌
+📫 Say hi: **[LinkedIn](https://www.linkedin.com/in/nikhilmishra3/)** | **[GitHub](https://github.com/nikhilm21)**  
